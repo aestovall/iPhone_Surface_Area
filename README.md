@@ -39,6 +39,6 @@ plot(SA.ag, col="white")
 lines(SA.ag)
 
 ```
-![](SA_plot_output.png)
+![](SA_out_plot.png)
 
 Stay tuned for an upcoming paper using this function!
