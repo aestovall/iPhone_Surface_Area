@@ -1,4 +1,5 @@
 library(data.table)
+source('input/SA_FUN.R')
 #find the 3D files
 files<-list.files("input", pattern=".off", recursive = TRUE, full.names = TRUE)
 
