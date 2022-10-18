@@ -1,2 +1,2 @@
-# iPhone_Surface_Area
+# iPhone Surface Area
 Functions to calculate surface area from iphone lidar data
