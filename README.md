@@ -3,7 +3,7 @@ Functions to calculate surface area from iPhone lidar data
 
 ## Getting Started
 
-### Prepare Tree-level TLS Data
+### Prepare iPhone LiDAR Data
 First we must clean the iPhone data. We recommend [CloudCompare](https://www.danielgm.net/cc/]) to open these meshes and isolate trees (or whatever you need to calculate surface area for). Sometimes meshes are rotated by 90 degrees or more, so adjust the rotation of your mesh data accordingly.
 
 Once these meshes are prepared save using the '.off' format. The algorithm can currently only accept this format for processing.
